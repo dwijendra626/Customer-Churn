@@ -12,4 +12,4 @@ In order to learn about bank's customers we will make use of one of the Deep Lea
 
 
 
-![imgs](train.png)
+![imgs](imgs/train.png)

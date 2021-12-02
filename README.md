@@ -11,3 +11,5 @@ In order to learn about bank's customers we will make use of one of the Deep Lea
 4. Predicting Test set results
 
 
+
+![imgs](train.png)

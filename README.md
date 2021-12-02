@@ -13,3 +13,10 @@ In order to learn about bank's customers we will make use of one of the Deep Lea
 
 
 ![imgs](imgs/train.png)
+
+
+<p align="center">
+  <img src="imgs/train.png" width="350" title="Train img">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+

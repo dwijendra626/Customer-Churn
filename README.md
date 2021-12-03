@@ -14,3 +14,6 @@ In order to learn about bank's customers we will make use of one of the Deep Lea
 
 ![imgs](imgs/train.png)
 
+
+
+After calculating the test set results, we got the accuracy of approx. ***85%*** with the help of Hyperparameter Tuning. 

@@ -17,7 +17,7 @@ In order to learn about bank's customers we will make use of one of the Deep Lea
 3. Training ANN on train set
 4. Predicting Test set results
 
-
+Customer Churn [Implementation Code](https://www.kaggle.com/dwijendranathsahoo/customer-churn-modelling-using-ann/notebook)
 
 ![imgs](imgs/train.png)
 
